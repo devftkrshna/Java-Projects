@@ -48,7 +48,7 @@ public class StudentManagementSystem {
                 choice = obj.nextInt();
             } catch (Exception e) {
                 System.out.println("Invalid input! Please enter a number between 1-6.");
-                obj.next(); // Clear invalid input
+                obj.next();
                 continue;
             }
 

@@ -109,7 +109,7 @@ public class ToDoList {
         int t= input.nextInt();
         if(t>0 && t<=tasks.size()){
             tasks.remove(t-1);
-            System.out.println("Task deleted succesfully!!!");
+            System.out.println("Task deleted successfully!!!");
         }else System.out.println("Invalid Number");
 
     }
