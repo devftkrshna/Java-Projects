@@ -166,7 +166,7 @@ public class NumberGuessingGame {
 ```java
         Random random = new Random();
         int number = random.nextInt(100) + 1; // Generates a number between 1 and 100
-        ```
+```
         
 2. **Loops:**
 
