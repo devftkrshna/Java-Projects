@@ -11,6 +11,8 @@ This repository contains multiple Java projects, including beginner to advanced 
 3. **[To Do List CLI](https://github.com/devftkrshna/Java-Projects/tree/main/3.%20To%20Do%20List%20CLI)** - To Do list using Collections And File Handling
 4. **[Number Guessing Game](https://github.com/devftkrshna/Java-Projects/tree/main/4.%20Number%20Guessing%20Game)** - Simple Program using Random class, Loops
 5. **[Bank Management System CLI](https://github.com/devftkrshna/Java-Projects/tree/main/5.%20Bank%20Management%20System)** - Bank Management System using OOPS( Encapsulationa and Inheritance)
+6. 5. **[Library Management System CLI](https://github.com/devftkrshna/Java-Projects/tree/main/6.%20Library%20Management%20System))** - Library Management System using OOPS( Encapsulationa and Inheritance), File Handling.
+   6. 5. **[Hotel Booking System CLI](https://github.com/devftkrshna/Java-Projects/tree/main/7.%20Hotel%20Management%20System)** - Hotel Booking System using MultiThreading( Encapsulationa and Inheritance)
    
 ## 🚀 Clone the repository:
    ```bash
