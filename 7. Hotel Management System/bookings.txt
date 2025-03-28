@@ -1,0 +1,5 @@
+Room 301 booked.
+Room 301 booking cancelled.
+Room 301 booked.
+Room 301 booked.
+Room 301 booked.
